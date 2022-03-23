@@ -1,3 +1,5 @@
+<img src="https://www.canva.com/design/DAE71bRQycI/9LOVUSBy-Ym77Rmi3SDYjA/view?utm_content=DAE71bRQycI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" width="150" height="280">
+
 <h1 align="center">Hi 👋, I'm Mustapha ABOURAR</h1>
 <h3 align="center">A passionate & Student Software engineer.</h3>
 
