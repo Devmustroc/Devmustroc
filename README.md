@@ -1,5 +1,3 @@
-![Sans titre (1)](https://user-images.githubusercontent.com/101810866/159799712-8c4fc303-e07b-4c36-8f7d-3854c57f19d2.png)
-
 <h1 align="center">Hi 👋, I'm Mustapha ABOURAR</h1>
 <h3 align="center">A passionate & Student Software engineer.</h3>
 
