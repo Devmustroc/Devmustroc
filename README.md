@@ -23,7 +23,7 @@ During my first year at Holberton, I'll  workig mainly in C language, Python and
  
  - 🌱 <h4>Recently : </h4>we create our own printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
 
- - 🔭 <h5> I’m currently working :</5> on   Simple Shell.
+ - 🔭 <h4> I’m currently working :</h4> on   Simple Shell.
 
  - 👯 <h4> Collaboration :</4> my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
 right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project. 
