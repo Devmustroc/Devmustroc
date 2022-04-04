@@ -66,5 +66,3 @@ right now i'm a student @Holberton School and we still in development of our kno
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
