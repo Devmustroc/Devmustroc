@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/RQMj3kc/Noir-et-Rose-poudr-Monotone-Minimaliste-Protestation-de-la-communaut-Centre-de-crise-Linked-In-Banni.png" alt="cover" />
+<img src="https://i.ibb.co/MfSxzpp/Noir-et-Rose-poudr-Monotone-Minimaliste-Protestation-de-la-communaut-Centre-de-crise-Linked-In-Banni.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -18,13 +18,13 @@
 
 
 
- 💬 Talk to me about Hello! I'm Mustapha, currently a student in @Holberton School LILLE  🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture 
+ 💬 <h5>What about me :</h5> Hello! I'm Mustapha, currently a student in @Holberton School LILLE  🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture 
 During my first year at Holberton, I'll  workig mainly in C language, Python and bash scripting. Trying to be confortable with web development in Python with focus on unit testing and building MySQL Databases.
-- 🌱 I’m currently learning I recreated the printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
+ - 🌱 <h5>recently :</5>we create our own printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
 
-- 🔭 I’m currently working on   Simple Shell.
+ - 🔭 <h5> I’m currently working :</5> on   Simple Shell.
 
-- 👯 I’m looking to collaborate on my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
+ - 👯 <h5> Collaboration :</5> my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
 right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project. 
 
 -  I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely. 
