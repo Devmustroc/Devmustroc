@@ -20,15 +20,14 @@
 
  💬 <h5>What about me :</h5> Hello! I'm Mustapha, currently a student in @Holberton School LILLE  🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture 
 During my first year at Holberton, I'll  workig mainly in C language, Python and bash scripting. Trying to be confortable with web development in Python with focus on unit testing and building MySQL Databases.
- - 🌱 <h5>recently :</5>we create our own printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
+ 
+ - 🌱 <h4>Recently : </h4>we create our own printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
 
  - 🔭 <h5> I’m currently working :</5> on   Simple Shell.
 
- - 👯 <h5> Collaboration :</5> my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
+ - 👯 <h4> Collaboration :</4> my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
 right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project. 
-
--  I recreated the printf function and Linux Shell with 2 different groups. Thanks to the school learning approach we learned to work collaboratively, in person and remotely. 
-
+ 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
