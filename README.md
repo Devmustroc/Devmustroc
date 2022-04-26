@@ -1,7 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<div align="center">
+<img src="https://i.ibb.co/jf4cvyS/Noir-et-Rose-poudr-Monotone-Minimaliste-Protestation-de-la-communaut-Centre-de-crise-Linked-In-Banni.png" alt="cover" />
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mustapha</h1>
+<h3 align="center">I'm a passionate Full Stack / front end Developer from France.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -62,10 +64,7 @@ Hello! I'm Mustapha, currently a student in @Holberton School LILLE 🇫🇷. I'
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/elmustapha-abourar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
@@ -74,3 +73,8 @@ Hello! I'm Mustapha, currently a student in @Holberton School LILLE 🇫🇷. I'
     <img src="https://komarev.com/ghpvc/?username=Devmustroc">
 </a>
 <a href="https://github.com/Devmustroc?tab=followers"><img src="https://img.shields.io/github/followers/Devmustroc?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
