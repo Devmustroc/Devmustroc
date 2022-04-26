@@ -1,67 +1,76 @@
-<div align="center">
-<img src="https://i.ibb.co/jf4cvyS/Noir-et-Rose-poudr-Monotone-Minimaliste-Protestation-de-la-communaut-Centre-de-crise-Linked-In-Banni.png" alt="cover" />
-</div>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devmustroc.Devmustroc)
+
+## 🙋‍♂️ About Me
+    What about me :
+Hello! I'm Mustapha, currently a student in @Holberton School LILLE 🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture During my first year at Holberton, I'll workig mainly in C language, Python and bash scripting. Trying to be confortable with web development in Python with focus on unit testing and building MySQL Databases.
+
+
+- 🔭 I’m currently working on **PYTHON**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+  Collaborate: my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe. right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project.
+- 👨‍💻 All of my projects are available here : **Devmustroc**
+- 📫 How to reach me **elmustapha.abourar@gmail.com**
+
+- ⚡ Fun fact **I'm a dancer / choreographer, BeatMaker, Deejay, Gamer ...'.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.gnu.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a> 
 
 </p>
-<div size='20px'> Hi! My name is Mustapha Abourar. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
 
-<img width="55%" align="right" alt="Github" src="https://i.ibb.co/L9ZzbvN/Sans-titre-4.png" />
+<p align="center">
+    <a href="https://github.com/Devmustroc/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Devmustroc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
+## 📊 My Github Stats
 
-
-
- 💬 <h5>What about me :</h5> Hello! I'm Mustapha, currently a student in @Holberton School LILLE  🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture 
-During my first year at Holberton, I'll  workig mainly in C language, Python and bash scripting. Trying to be confortable with web development in Python with focus on unit testing and building MySQL Databases.
- 
- - 🌱 <h4>Recently : </h4>we create our own printf function. Thanks to the school learning approach we learned to work collaboratively, in person and remotely.
-
- - 🔭 <h4> I’m currently working :</h4> on   Simple Shell.
-
- - 👯 <h4> Collaboration :</4> my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe.
-right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project. 
- 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
-<a href= https://github.com/Devmustroc?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
+  <br/>
+    <a href="https://github.com/Devmustroc/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Devmustroc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Devmustroc/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devmustroc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/elmustapha abourar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'elmustapha.abourar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/Devmustroc'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<br/>
+<br/>
 
+<a href="https://github.com/Devmustroc/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Devmustroc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devmustroc)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Devmustroc">
 </a>
-<br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/Devmustroc?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> My Blog Posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<a href="https://github.com/Devmustroc?tab=followers"><img src="https://img.shields.io/github/followers/Devmustroc?label=Followers&style=social" alt="GitHub Badge"></a>
