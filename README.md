@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Mustapha</h1>
-<h3 align="center">I'm a passionate Full Stack / front end Developer from France.</h3>
+<h3 align="center">I'm a passionate Full Stack / front end Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
