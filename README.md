@@ -74,7 +74,7 @@ Hello! I'm Mustapha, currently a student in @Holberton School LILLE 🇫🇷. I'
 </a>
 <a href="https://github.com/Devmustroc?tab=followers"><img src="https://img.shields.io/github/followers/Devmustroc?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
