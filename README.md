@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/jf4cvyS/Noir-et-Rose-poudr-Monotone-Minimaliste-Protestation-de-la-communaut-Centre-de-crise-Linked-In-Banni.png" alt="cover" />
-</div>
 
 <h1 align="center">Hi, I'm Mustapha</h1>
 <h3 align="center">I'm a passionate Full Stack / front end Developer from France.</h3>
