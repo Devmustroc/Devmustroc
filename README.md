@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Mustapha</h1>
-<h3 align="center">I'm a passionate Full Stack.</h3>
+<h3 align="center">Student Full Stack</h3>
 
 
 ## 🙋‍♂️ About Me
