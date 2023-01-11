@@ -5,14 +5,15 @@
 
 ## 🙋‍♂️ About Me
     What about me :
-Hello! I'm Mustapha, currently a student in @Holberton School LILLE 🇫🇷. I'd be finishing my studies in 2 Years and I'm looking for an internship in WebDev I’m very interested in front end design, responsive design, and web architecture During my first year at Holberton, I'll workig mainly in C language, Python and bash scripting. Trying to be confortable with web development in Python with focus on unit testing and building MySQL Databases.
+Hello! My name is Mustapha and I am currently a student at Holberton School in Lille, France. I am set to complete my studies in two years and I am actively seeking an internship opportunity in web development. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Python, with a particular emphasis on unit testing and building MySQL databases.
 
 
 - 🔭 I’m currently working on **PYTHON**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-  Collaborate: my 1er portfolio project, i was a student @Simplon and our project was to create an IOS app based on Swift & SwiftUI we created an application about stock and food management, an app that's help costumers to stop wasting food , saving money and suggest recipe. right now i'm a student @Holberton School and we still in development of our knowledge and in the end of the year sure we will make another big project.
+  My first portfolio project was completed while I was a student at Simplon. Our team was tasked with creating an iOS app using Swift and SwiftUI. The app we developed was focused on stock and food management, and aimed to help customers reduce food waste, save money, and suggest recipes. Currently, I am a student at Holberton School, where I am continuing to develop my skills and knowledge. At the end of the year, I am confident that I will have the opportunity to work on another big project.
+  
 - 👨‍💻 All of my projects are available here : **Devmustroc**
 - 📫 How to reach me **elmustapha.abourar@gmail.com**
 
