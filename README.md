@@ -65,8 +65,8 @@ Hello! My name is Mustapha and I am currently a student at Holberton School in L
 </p>
 
 <p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:WAKATIME_API_KEY-->
+<!--END_SECTION:WAKATIME_API_KEY-->
 </p>
 
 ## ❤ Views and Followers
