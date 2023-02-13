@@ -64,6 +64,11 @@ Hello! My name is Mustapha and I am currently a student at Holberton School in L
 
 </p>
 
+<p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Devmustroc">
