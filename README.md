@@ -10,7 +10,7 @@ Hello! My name is Mustapha and I am currently a student at Holberton School in L
 
 - 🔭 I’m currently working on **PYTHON**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **REACT FULL STACK JAVASCRIPT & DOCKER KUBERNETES**
 
   My first portfolio project was completed while I was a student at Simplon. Our team was tasked with creating an iOS app using Swift and SwiftUI. The app we developed was focused on stock and food management, and aimed to help customers reduce food waste, save money, and suggest recipes. Currently, I am a student at Holberton School, where I am continuing to develop my skills and knowledge. At the end of the year, I am confident that I will have the opportunity to work on another big project.
   
