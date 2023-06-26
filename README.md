@@ -2,10 +2,13 @@
 <h1 align="center">Hi, I'm Mustapha</h1>
 <h3 align="center">Student Full Stack</h3>
 
-
 ## 🙋‍♂️ About Me
     What about me :
-Hello! My name is Mustapha and I am currently a student at Holberton School in Lille, France. I am set to complete my studies in two years and I am actively seeking an internship opportunity in web development. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Python, with a particular emphasis on unit testing and building MySQL databases.
+
+<br>
+Hello!
+My name is Mustapha and :
+I currently a student at Holberton School in Lille, France. I am set to complete my studies in two years and I am actively seeking an internship opportunity in web development. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Python, with a particular emphasis on unit testing and building MySQL databases.
 
 
 - 🔭 I’m currently working on **PYTHON**
@@ -19,42 +22,73 @@ Hello! My name is Mustapha and I am currently a student at Holberton School in L
 
 - ⚡ Fun fact **I'm a dancer / choreographer, BeatMaker, Deejay, Gamer ...'.**
 
-## 🚀 Languages and Tools:
+### 🛠 &nbsp;Languages and Tools
 
-<p align="left"> 
-    <a href="https://fr.wikipedia.org/wiki/C_(langage)" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.gnu.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icons8.com/icon/8rKdRqZFLurS/mongodb-a-cross-platform-document-oriented-database-program"/> </a> 
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
+![C](https://img.shields.io/badge/-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=1572B6)
+![Bootstrap5](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
+![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
+![nginx](https://img.shields.io/badge/-nginx-003366?style=flat&logo=nginx)
+![datadog](https://img.shields.io/badge/-nginx-003366?style=flat&logo=datadog)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+<br>
+![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=pycharm)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Clion](https://img.shields.io/badge/-Clion-black?style=flat&logo=clion)
+![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim)
 
-</p>
+### 💹 Extra Marketing Digital:
+![googleads](https://img.shields.io/badge/-Googleads-black?style=flat&logo=googleads)
+![googleanalytics](https://img.shields.io/badge/-Googleanalytics-black?style=flat&logo=googleanalytics)
+![googlemybusiness](https://img.shields.io/badge/-GoogleMyBusiness-black?style=flat&logo=googlemybusiness)
+![mailchimp](https://img.shields.io/badge/-Mailchimp-black?style=flat&logo=mailchimp)
+![shopify](https://img.shields.io/badge/-shopify-black?style=flat&logo=shopify)
+![woocommerce](https://img.shields.io/badge/-shopify-black?style=flat&logo=woocommerce)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
+
+
+
+---
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/Devmustroc/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Devmustroc&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+<a href="https://github.com/ShubhamSarda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Devmustroc&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Devmustroc&layout=compact&langs_count=8&theme=buefy"/>
+</a>
 </p>
 
-<br/>
 
-## Connect with me:
+### Spotify Playing 🎧
+![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2JycPQmhwmHFhDUBVTJBJN)
+## 📱 Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/elmustapha-abourar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a target="_blank" href="https://www.linkedin.com/in/elmustapha-abourar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:elmustapha.abourar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@devmustroc"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 </p>
 
 <p>
-<!--START_SECTION:WAKATIME_API_KEY-->
-<!--END_SECTION:WAKATIME_API_KEY-->
+
 </p>
 
 ## ❤ Views and Followers
@@ -63,7 +97,9 @@ Hello! My name is Mustapha and I am currently a student at Holberton School in L
 </a>
 <a href="https://github.com/Devmustroc?tab=followers"><img src="https://img.shields.io/github/followers/Devmustroc?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<h2> Some Programming Humor for you</h2>
+## 🎮 🎹 Hobbies
+### Music : Mixing Producing & DeeJay :
+![Ableton](https://img.shields.io/badge/-Ableton-000000?style=flat&logo=abletonlive)
+![Pioneerdj](https://img.shields.io/badge/-pioneerdj-000000?style=flat&logo=pioneerdj)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
