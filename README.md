@@ -78,7 +78,7 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2JycPQmhwmHFhDUBVTJBJN)
+![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2JycPQmhwmHFhDUBVTJBJN)
 ## 📱 Connect with me:
 <p align="left">
 
