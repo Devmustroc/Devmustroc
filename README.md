@@ -78,10 +78,10 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 
 
 ### Spotify Playing 🎧
-![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/2JycPQmhwmHFhDUBVTJBJN)
+![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)(https://open.spotify.com/playlist/2JycPQmhwmHFhDUBVTJBJN)
+
 ## 📱 Connect with me:
 <p align="left">
-
 <a target="_blank" href="https://www.linkedin.com/in/elmustapha-abourar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:elmustapha.abourar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@devmustroc"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
