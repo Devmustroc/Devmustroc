@@ -59,8 +59,8 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 ![googleanalytics](https://img.shields.io/badge/-Googleanalytics-black?style=flat&logo=googleanalytics)
 ![googlemybusiness](https://img.shields.io/badge/-GoogleMyBusiness-black?style=flat&logo=googlemybusiness)
 ![mailchimp](https://img.shields.io/badge/-Mailchimp-black?style=flat&logo=mailchimp)
-![shopify](https://img.shields.io/badge/-shopify-black?style=flat&logo=shopify)
-![woocommerce](https://img.shields.io/badge/-shopify-black?style=flat&logo=woocommerce)
+![shopify](https://img.shields.io/badge/-Shopify-black?style=flat&logo=shopify)
+![woocommerce](https://img.shields.io/badge/-Woocommerce-black?style=flat&logo=woocommerce)
 
 
 
