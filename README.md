@@ -3,7 +3,6 @@
 <h3 align="center">Student Full Stack</h3>
 
 ## 🙋‍♂️ About Me
-    What about me :
 
 <br>
 Hello!
