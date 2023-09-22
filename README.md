@@ -25,6 +25,7 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![C](https://img.shields.io/badge/-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![Bash](https://img.shields.io/badge/-gnubash-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
