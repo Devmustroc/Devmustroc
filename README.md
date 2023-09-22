@@ -96,7 +96,7 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 <a href="https://github.com/Devmustroc?tab=followers"><img src="https://img.shields.io/github/followers/Devmustroc?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 🎮 🎹 Hobbies
-# Pro Dancer & Choreographer
+### Pro Dancer & Choreographer
 ### Music : Mixing Producing & DeeJay :
 ![Ableton](https://img.shields.io/badge/-Ableton-000000?style=flat&logo=abletonlive)
 ![Pioneerdj](https://img.shields.io/badge/-pioneerdj-000000?style=flat&logo=pioneerdj)
