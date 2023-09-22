@@ -45,7 +45,6 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/-Linux-003366?style=flat&logo=linux)
 ![nginx](https://img.shields.io/badge/-nginx-003366?style=flat&logo=nginx)
-![datadog](https://img.shields.io/badge/-nginx-003366?style=flat&logo=datadog)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 <br>
 ![Pycharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=pycharm)
