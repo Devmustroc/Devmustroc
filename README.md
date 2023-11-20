@@ -79,8 +79,8 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 <!--END_SECTION:waka-->
 
 
-### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yszhdpu73e77obblougfighahy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[//]: # (### Spotify Playing 🎧)
+[//]: # ([![spotify-github-profile]&#40;https://spotify-github-profile.vercel.app/api/view?uid=31yszhdpu73e77obblougfighahy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&#41;]&#40;https://github.com/kittinan/spotify-github-profile&#41;)
 
 ## 📱 Connect with me:
 <p align="left">
