@@ -80,7 +80,7 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 
 
 ### Spotify Playing 🎧
-<--! [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yszhdpu73e77obblougfighahy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
+<--![![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yszhdpu73e77obblougfighahy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)-->
 
 ## 📱 Connect with me:
 <p align="left">
