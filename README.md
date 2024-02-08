@@ -78,7 +78,7 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2022 - To: 05 February 2024
+From: 03 April 2022 - To: 06 February 2024
 
 Total Time: 1,068 hrs 51 mins
 
