@@ -78,20 +78,20 @@ I currently a student at Holberton School in Lille, France. I am set to complete
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2022 - To: 16 April 2024
+From: 03 April 2022 - To: 17 April 2024
 
-Total Time: 1,383 hrs 34 mins
+Total Time: 1,384 hrs 47 mins
 
-JavaScript            502 hrs 41 mins >>>>>>>>>----------------   36.26 %
-TypeScript            342 hrs 9 mins  >>>>>>-------------------   24.68 %
+JavaScript            502 hrs 41 mins >>>>>>>>>----------------   36.22 %
+TypeScript            342 hrs 9 mins  >>>>>>-------------------   24.66 %
 CSS                   94 hrs 12 mins  >>-----------------------   06.79 %
-Python                74 hrs 58 mins  >------------------------   05.41 %
-HTML                  73 hrs 18 mins  >------------------------   05.29 %
-Prisma                55 hrs 24 mins  >------------------------   04.00 %
+Python                74 hrs 58 mins  >------------------------   05.40 %
+HTML                  73 hrs 18 mins  >------------------------   05.28 %
+Prisma                55 hrs 24 mins  >------------------------   03.99 %
 C                     53 hrs          >------------------------   03.82 %
-JSON                  50 hrs 41 mins  >------------------------   03.66 %
+JSON                  50 hrs 42 mins  >------------------------   03.65 %
 Dart                  32 hrs 20 mins  >------------------------   02.33 %
-Markdown              24 hrs 36 mins  -------------------------   01.77 %
+Markdown              25 hrs 47 mins  -------------------------   01.86 %
 ```
 
 <!--END_SECTION:waka-->
