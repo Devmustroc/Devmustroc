@@ -10,16 +10,16 @@ My name is Mustapha and :
 I currently a student at Holberton School in Lille, France. I am set to complete my studies in two years and I am actively seeking an internship opportunity in web development. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Python, with a particular emphasis on unit testing and building MySQL databases.
 
 
-- 🔭 I’m currently working on **PYTHON**
+- 🔭 I’m currently enjoying full stack Web developpement with **React Eco-system: NextJs, TypeScript, Prisma...**
 
-- 🌱 I’m currently learning **REACT FULL STACK JAVASCRIPT & DOCKER KUBERNETES**
+- 🌱 I’m currently learning **DOCKER KUBERNETES & DEVOPS**
 
   My first portfolio project was completed while I was a student at Simplon. Our team was tasked with creating an iOS app using Swift and SwiftUI. The app we developed was focused on stock and food management, and aimed to help customers reduce food waste, save money, and suggest recipes. Currently, I am a student at Holberton School, where I am continuing to develop my skills and knowledge. At the end of the year, I am confident that I will have the opportunity to work on another big project.
   
 - 👨‍💻 All of my projects are available here : **Devmustroc**
 - 📫 How to reach me **elmustapha.abourar@gmail.com**
 
-- ⚡ Fun fact **I'm a dancer / choreographer, BeatMaker, Deejay, Gamer ...'.**
+- ⚡ Fun fact **I'm a Bboy (Break Dancer) / choreographer, BeatMaker, Deejay, Gamer ...'.**
 
 ### 🛠 &nbsp;Languages and Tools
 
