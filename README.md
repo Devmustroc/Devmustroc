@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, I'm Mustapha</h1>
-<h3 align="center">full stack enthousiaste</h3>
+<h3 align="center">Front End enthousiaste</h3>
+<h3 align="center">Full Stack Dev</h3>
 
 ## 🙋‍♂️ About Me
 
