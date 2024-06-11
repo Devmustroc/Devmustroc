@@ -49,47 +49,33 @@ I'm a Junior full stack developer, based in France. I completed my studies in Ja
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Certbot](https://img.shields.io/badge/-Certbot-003A6F?style=flat&logo=certbot)
 
-<h3>DBMS</h3>
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 ![Redis](https://img.shields.io/badge/-Redis-20202D?style=flat&logo=redis)
 
-<h3>Testing:</h3>
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai)
 ![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat&logo=enzyme)
 ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=pytest)
 
-
-<h3>Monitoring:</h3>
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat&logo=sentry)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog)
-
-<h3>Version Control:</h3>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github)
-
-<h3>Project Management:</h3>
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)
-<br>
-
-<h3>Opearting System:</h3>
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-black?style=flat&logo=debian)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)
 
-<h3>Virtualization:</h3>
 ![VMware](https://img.shields.io/badge/-VMware-black?style=flat&logo=vmware)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-black?style=flat&logo=virtualbox)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat&logo=vagrant)
 
-
-<h3>IDE & Tools:</h3>
 ![Vim](https://img.shields.io/badge/-Vim-black?style=flat&logo=vim)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-black?style=flat&logo=webstorm)
