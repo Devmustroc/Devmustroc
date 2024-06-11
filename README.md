@@ -7,7 +7,7 @@
 
 <br>
 Hello!
-My name is Mustapha and :
+My name is Mustapha and i'm Father of Two Boys: Ismael and Isaac:
 I'm a Junior full stack developer, based in France. I completed my studies in Jan 2024. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Node Python and Java(as My Next Tech).
 
 
