@@ -30,19 +30,19 @@ I'm a Junior full stack developer, based in France. I completed my studies in Ja
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2022 - To: 23 September 2024
+From: 03 April 2022 - To: 24 September 2024
 
-Total Time: 2,070 hrs 18 mins
+Total Time: 2,072 hrs 13 mins
 
-TypeScript            799 hrs 28 mins >>>>>>>>>>---------------   38.54 %
-JavaScript            584 hrs 23 mins >>>>>>>------------------   28.17 %
-CSS                   102 hrs 12 mins >------------------------   04.93 %
-HTML                  78 hrs 8 mins   >------------------------   03.77 %
+TypeScript            801 hrs 14 mins >>>>>>>>>>---------------   38.59 %
+JavaScript            584 hrs 23 mins >>>>>>>------------------   28.14 %
+CSS                   102 hrs 12 mins >------------------------   04.92 %
+HTML                  78 hrs 8 mins   >------------------------   03.76 %
 Python                75 hrs 5 mins   >------------------------   03.62 %
-Prisma                67 hrs 22 mins  >------------------------   03.25 %
+Prisma                67 hrs 31 mins  >------------------------   03.25 %
 JSON                  67 hrs 13 mins  >------------------------   03.24 %
 Java                  53 hrs 57 mins  >------------------------   02.60 %
-C                     53 hrs          >------------------------   02.56 %
+C                     53 hrs          >------------------------   02.55 %
 Dart                  32 hrs 20 mins  -------------------------   01.56 %
 ```
 
