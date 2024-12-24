@@ -30,7 +30,7 @@ I'm a Junior full stack developer, based in France. I completed my studies in Ja
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2022 - To: 21 December 2024
+From: 03 April 2022 - To: 22 December 2024
 
 Total Time: 2,229 hrs 42 mins
 
