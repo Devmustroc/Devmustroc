@@ -1,46 +1,4 @@
-👨‍💻 Développeur Full Stack passionné, basé en France.
-Diplômé de l’AFPA (Concepteur Développeur d’Applications - RNCP 6) et de la Holberton School, je conçois des applications web et mobiles modernes, performantes et scalables.
-Compétences principales
-
-    Développement Full Stack : Next.js, React, TypeScript, Node.js, Express, NestJS
-
-    Headless CMS : Maîtrise de Payload CMS pour des architectures flexibles et évolutives
-
-    Automatisation & Intégrations : Automatisation de workflows avec n8n, intégration d’API tierces
-
-    Bases de données : PostgreSQL, MongoDB, Prisma, Drizzle
-
-    DevOps & Cloud : Docker, GitHub Actions, Vercel
-
-    Mobile : Flutter, React Native
-
-Ce que je fais actuellement
-
-    Je développe des applications web et mobile avec l’écosystème Next.js/React.
-
-    J’intègre des Headless CMS (Payload CMS) pour des solutions sur-mesure.
-
-    J’automatise des processus métiers avec n8n et je crée des intégrations personnalisées.
-
-    J’explore le DevOps, l’architecture cloud et la sécurité applicative.
-
-Projets récents
-
-    Plateformes e-commerce multi-tenant (Next.js, Payload CMS)
-
-    Outils collaboratifs (gestion de documents, dashboards IA)
-
-    Automatisations avancées avec n8n
-
-📫 Contact : elmustapha.abourar@gmail.com
-🌐 LinkedIn | Portfolio
-
-⚡ Fun fact : Je suis aussi Bboy (breakdancer), chorégraphe, beatmaker, DJ et gamer passionné.
-
-
-
----
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/devmustroc">
