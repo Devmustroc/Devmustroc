@@ -1,19 +1,41 @@
-<h1 align="center">Mustapha Abourar</h1>
-<br>
+👨‍💻 Développeur Full Stack passionné, basé en France.
+Diplômé de l’AFPA (Concepteur Développeur d’Applications - RNCP 6) et de la Holberton School, je conçois des applications web et mobiles modernes, performantes et scalables.
+Compétences principales
 
-Father of Two Boy
+    Développement Full Stack : Next.js, React, TypeScript, Node.js, Express, NestJS
 
-I'm a Junior full stack developer, based in France. I completed my studies in Jan 2024. My areas of interest include front-end design, responsive design, and web architecture. During my first year at Holberton, I have been focusing on mastering C language, Python, and bash scripting. I am also working to become proficient in web development using Node Python and Java(as My Next Tech).
+    Headless CMS : Maîtrise de Payload CMS pour des architectures flexibles et évolutives
 
+    Automatisation & Intégrations : Automatisation de workflows avec n8n, intégration d’API tierces
 
-- 🔭 I’m currently enjoying full stack Web developpement with **Nextjs React Eco-system: NextJs, TypeScript, Prisma...**
+    Bases de données : PostgreSQL, MongoDB, Prisma, Drizzle
 
-- 🌱 I’m currently learning **Java And DevOps*
-  
-- 👨‍💻 All of my projects are available here : **Devmustroc**
-- 📫 How to reach me **elmustapha.abourar@gmail.com**
+    DevOps & Cloud : Docker, GitHub Actions, Vercel
 
-- ⚡ Fun fact **I'm a Bboy (Break Dancer) / choreographer, BeatMaker, Deejay, Gamer ...'.**
+    Mobile : Flutter, React Native
+
+Ce que je fais actuellement
+
+    Je développe des applications web et mobile avec l’écosystème Next.js/React.
+
+    J’intègre des Headless CMS (Payload CMS) pour des solutions sur-mesure.
+
+    J’automatise des processus métiers avec n8n et je crée des intégrations personnalisées.
+
+    J’explore le DevOps, l’architecture cloud et la sécurité applicative.
+
+Projets récents
+
+    Plateformes e-commerce multi-tenant (Next.js, Payload CMS)
+
+    Outils collaboratifs (gestion de documents, dashboards IA)
+
+    Automatisations avancées avec n8n
+
+📫 Contact : elmustapha.abourar@gmail.com
+🌐 LinkedIn | Portfolio
+
+⚡ Fun fact : Je suis aussi Bboy (breakdancer), chorégraphe, beatmaker, DJ et gamer passionné.
 
 
 
