@@ -51,11 +51,12 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[Dekode](https://github.com/Devmustroc/dekode)** | Platform & Developer tooling application | TypeScript, React, Node.js |
-| 🛍️ **[Hanout](https://github.com/Devmustroc/hanout)** | Multi-tenant web platform for e-commerce | Next.js, Payload CMS, TypeScript |
-| 🎨 **[CanIA](https://github.com/Devmustroc/canIA)** | Graphic editor inspired by Canva with AI capabilities | React, TypeScript, Canvas API |
-| 📊 **[Visor](https://github.com/Devmustroc/visor)** | Financial dashboard and tracking super-app | TypeScript, React, Tailwind |
-| 🎵 **[SpinSession](https://github.com/Devmustroc/SpinSession)** | Streaming platform dedicated to DJs and audio mixes | WebAudio, React, Node.js |
+| 🛍️ **[Hanout](https://github.com/Devmustroc/hanout)** | Multi-tenant web platform for e-commerce | Next.js 15, React 19, Tailwind v4 |
+| 🎨 **[CanIA](https://github.com/Devmustroc/canIA)** | Canva-inspired graphic design editor with AI tools | Next.js 14, Fabric.js, Replicate AI |
+| 📊 **[Visor](https://github.com/Devmustroc/visor)** | Financial supervisor and analytics web application | TypeScript, React, Tailwind CSS |
+| 🎵 **[SpinSession](https://github.com/Devmustroc/SpinSession)** | Streaming audio platform dedicated to DJs and mixes | WebAudio API, React, Node.js |
+| 📝 **[buildApp](https://github.com/Devmustroc/buildApp)** | Notion-like document sharing & workspace app | React, Next.js, Tailwind CSS |
+| 🤖 **[Ollama WebUI](https://github.com/Devmustroc/ollama_webui_replicate)** | Multimodal AI content generation platform | Python, React, Replicate & Ollama |
 
 ---
 
