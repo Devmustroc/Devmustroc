@@ -69,8 +69,9 @@
 
 #### ⏱️ WakaTime Dev Metrics
 <!--START_SECTION:waka-->
+
 ```rust
-From: 03 April 2022 - To: 30 August 2026
+From: 03 April 2022 - To: 31 August 2026
 
 Total Time: 2,596 hrs 57 mins
 
@@ -84,6 +85,7 @@ Python                75 hrs 5 mins         >------------------------   02.89 %
 C                     53 hrs                >------------------------   02.04 %
 Markdown              45 hrs 55 mins        -------------------------   01.77 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
